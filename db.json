@@ -1,11 +1,58 @@
 {
-    "posts": [
+    "albums": [
         {
             "id": 1,
-            "title": "hello"
+            "photos": [
+                {
+                    "albumId": 1,
+                    "id": 1,
+                    "title": "One",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 2,
+                    "title": "Two",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 3,
+                    "title": "Three",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 4,
+                    "title": "Four",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 5,
+                    "title": "Five",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 6,
+                    "title": "Six",
+                    "url": "",
+                    "thumbnailUrl": ""
+                },
+                {
+                    "albumId": 1,
+                    "id": 7,
+                    "title": "Seven",
+                    "url": "",
+                    "thumbnailUrl": ""
+                }
+            ]
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
